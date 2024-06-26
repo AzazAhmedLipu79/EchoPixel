@@ -1,4 +1,4 @@
-```markdown
+```
 # BMP Image Terminal Viewer
 
 This project demonstrates how to read, parse, downscale, and display BMP images in a terminal using Node.js.
@@ -22,8 +22,8 @@ This project demonstrates how to read, parse, downscale, and display BMP images 
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
-   cd bmp-image-terminal-viewer
+   git clone https://github.com/AzazAhmedLipu79/EchoPixel
+   cd EchoPixel
 ```
 
 2. Install dependencies:
@@ -51,4 +51,3 @@ Below is an example of how the program displays a BMP image in the terminal:
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit pull requests.
-"# EchoPixel" 
